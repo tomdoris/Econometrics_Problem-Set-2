@@ -1,4 +1,4 @@
-# Learning Stats and Economoetrics with python
+# Learning Stats and Econometrics with python
 
 This is the first of a series of Jupyter Notebooks that I am coding as I relearn econometrics and use python to carry out the analysis.
 
