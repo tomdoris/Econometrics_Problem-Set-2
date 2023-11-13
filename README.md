@@ -1,4 +1,3 @@
-# Econometrics_Problem-Set-2
 # Learning Stats and Econonoetrics with python
 
 This is the first of a series of Jupyter Notebooks that I am coding as I relearn econometrics and use python to carry out the analysis.
