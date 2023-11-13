@@ -1,6 +1,6 @@
 # Learning Stats and Econometrics with python
 
-This is the first of a series of Jupyter Notebooks that I am coding as I relearn econometrics and use python to carry out the analysis.
+This is the second of a series of Jupyter Notebooks that I am coding as I relearn econometrics and use python to carry out the analysis.
 
 I am mainly doing this using the INCREDIBLE youtube series made by Ben Lambert. This is problem set one which can be found in the first part of Ben's undergraduate econometrics syllabus on youtube here: https://www.youtube.com/playlist?list=PLwJRxp3blEvZyQBTTOMFRP_TDaSdly3gU
 
